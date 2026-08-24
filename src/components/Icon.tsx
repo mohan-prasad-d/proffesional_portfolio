@@ -1,0 +1,55 @@
+import {
+  Activity,
+  BrainCircuit,
+  Calculator,
+  ClipboardCheck,
+  Code2,
+  Contact,
+  Cpu,
+  Eye,
+  FolderGit2,
+  Gem,
+  GitBranch,
+  GraduationCap,
+  Layout,
+  Leaf,
+  MapPin,
+  Music,
+  ScrollText,
+  Server,
+  Trophy,
+  Users,
+  Wrench,
+  Dumbbell,
+  type LucideIcon,
+} from 'lucide-react';
+
+const map: Record<string, LucideIcon> = {
+  Activity,
+  BrainCircuit,
+  Calculator,
+  ClipboardCheck,
+  Code2,
+  Contact,
+  Cpu,
+  Eye,
+  FolderGit2,
+  Gem,
+  GitBranch,
+  GraduationCap,
+  Layout,
+  Leaf,
+  MapPin,
+  Music,
+  ScrollText,
+  Server,
+  Trophy,
+  Users,
+  Wrench,
+  Dumbbell,
+};
+
+export default function Icon({ name, className }: { name: string; className?: string }) {
+  const C = map[name] ?? Code2;
+  return <C className={className} />;
+}
