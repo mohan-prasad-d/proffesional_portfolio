@@ -7,7 +7,7 @@ export const profile = {
   github: 'https://github.com/mohan-prasad-d',
   githubHandle: 'mohan-prasad-d',
   linkedin: 'https://linkedin.com/in/mohan-prasad-d-701931377',
-  email: 'mohanprasad.dev@gmail.com',
+  email: 'mohanprasadd2020@gmail.com',
   stats: [
     { label: 'Founder @ Skill Developer Community', icon: 'Users' },
     { label: 'AI, Computer Vision & Web Systems Specialist', icon: 'Cpu' },
