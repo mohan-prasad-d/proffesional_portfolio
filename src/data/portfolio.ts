@@ -3,7 +3,7 @@ export const profile = {
   tagline: 'Full-Stack Developer & AI Systems Engineer',
   banner: 'B.Tech IT Student @ KGiSL Institute of Technology  |  Founder & Lead @ Skill Developer Community',
   location: 'Coimbatore, Tamil Nadu, India',
-  photoUrl: 'https://i.postimg.cc/Zn6PRbv1/mohanprasadd.png',
+  photoUrl: 'https://res.cloudinary.com/dexhp5igd/image/upload/v1787765655/Gemini_Generated_Image_frcuk0frcuk0frcu_x1xkzm.png',
   github: 'https://github.com/mohan-prasad-d',
   githubHandle: 'mohan-prasad-d',
   linkedin: 'https://linkedin.com/in/mohan-prasad-d-701931377',
